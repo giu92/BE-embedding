@@ -55,4 +55,6 @@ The command 3 computes the visualization task for the Barbell networks. It is no
 The command 4 computes the classification for generated synthetic networks.
 
 All the results are stored in the results folder.
+
+For any question send a email to giuseppe.squillace@imtlucca.it
   
