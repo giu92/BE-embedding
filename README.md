@@ -16,7 +16,8 @@ The algorithm presented in the paper is provided as an executable .jar file call
 - eps_0 the initial epsilon
 - D the maximum epsilon considered Delta
 - d the step delta
-The syntax fo the execution is the following:
+
+The syntax for the execution is the following:
 ```
 java -jar epsBE.jar N net eps_0 D d
 ```
